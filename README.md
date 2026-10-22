@@ -4,7 +4,7 @@
 
 <h3>📌 &nbsp;Sobre mim </h3>
 
-> Olá! Me chamo **Laura Alves**, tenho 18 anos e sou natural de **São Paulo**. Sou apaixonada por tecnologia desde muito cedo. <br><br>
+> Olá! Me chamo **Laura Alves**, tenho 19 anos e sou natural de **São Paulo**. Sou apaixonada por tecnologia desde muito cedo. <br><br>
 Aos 15 anos, decidi ingresssar na [ETEC Jorge Street](https://www.jorgestreet.com.br/), em São Caetano do Sul, onde me formei no curso de <span style="color:#479EE6;">Informática</span> em 2025. Ao longo da formação, desenvolvi maior afinidade com as áreas de <span style="color:#3EC757;">Segurança</span>, <span style="color:#3EC757;">Operação de Sistemas</span> e <span style="color:#3EC757;">Redes de Computadores.</span> <br><br>Atualmente, curso Segurança da Informação na [Fatec Antonio Russo](https://fatecsaocaetano.cps.sp.gov.br/), em São Caetano do Sul.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
